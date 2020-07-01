@@ -1,1 +1,1 @@
-# Covid19_Analysis_India-Basic-
+# Covid19_Analysis_India
